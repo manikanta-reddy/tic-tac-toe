@@ -1,4 +1,4 @@
-# project 34: Head to Head Tic-Tac-Toe App
+
 def draw_board(char_list):
     """installing the board"""
     print("\n\t   Tic-Tac-Toe")
